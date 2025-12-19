@@ -222,7 +222,7 @@ print(double_list_values(numbers))
 # Output: [2, 4, 6]
 
 #===============================================================
-#scops of variables:
+#scopes of variables:
 # Example: 19
 # Local Scope
 def input_number():
