@@ -1,0 +1,6 @@
+# Repo-local metadata
+.github/
+
+# Python bytecode
+__pycache__/
+*.pyc
